@@ -1,15 +1,32 @@
 ### Hi there 👋
-I'm Chaerin Yu, but you can just call me Challenge. 😎 [![Solved.ac chaerin_ger](http://mazassumnida.wtf/api/mini/generate_badge?boj=chaerin_ger)](https://solved.ac/chaerin_ger)
+I'm Chaerin Yu, but you can just call me Challenge. 😎
 
-
- 
- 
- 
+<br/>
  
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaerinYu&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaerinYu&&show_icons=true&theme=merko)
+<div align="center">
+ 
+<div>
+<img align='center' width="300px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaerinYu&layout=compact&theme=merko"/>
+
+<img align='center' width="360px" height="150px" src="https://github-readme-stats.vercel.app/api?username=ChaerinYu&&show_icons=true&theme=merko"/> 
+ </div>
+ 
+ 
+   
+<br/>
+ 
+ [![Solved.ac chaerin_ger](http://mazassumnida.wtf/api/mini/generate_badge?boj=chaerin_ger)](https://solved.ac/chaerin_ger)
+ 
+ <br/><br/>
+ ❤🧡💛💚💙💜  
+ [![Tistory Badge](https://img.shields.io/badge/the%20"Challenge"%20goes%20on.-ffbf45?style=flat&logoColor=white)](https://github.com/ChaerinYu/)
+ 
+ 
+</div>
 
 <!--
 **ChaerinYu/ChaerinYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +41,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaerinYu&count_bg=%232da44e&title_bg=%23044f1e&icon=&icon_color=%231a7f37&title=VISIT&edge_flat=false)](https://github.com/ChaerinYu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaerinYu&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaerinYu&&show_icons=true&theme=merko)
+
 -->
