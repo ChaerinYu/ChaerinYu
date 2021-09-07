@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm Chaerin Yu, but you can just call me Challenge. 😎
+I'm Chaerin Yu, but you can just call me Challenge. 😎 [![Solved.ac chaerin_ger](http://mazassumnida.wtf/api/mini/generate_badge?boj=chaerin_ger)](https://solved.ac/chaerin_ger)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaerinYu&&show_icons=true&theme=merko)
 
 <!--
 **ChaerinYu/ChaerinYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
