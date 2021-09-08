@@ -1,29 +1,26 @@
+
+<div align='center'>
+ 
 ### Hi there 👋
 I'm Chaerin Yu, but you can just call me Challenge. 😎
+ 
 
 <br/>
- 
-***
-<br/>
-<br/>
 
-<div align="center">
- 
+ 💜💜💜
 <div>
-<img align='center' width="300px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaerinYu&layout=compact&theme=merko"/>
+<img align='center' width="300px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaerinYu&layout=compact&theme=buefy"/>
 
-<img align='center' width="360px" height="150px" src="https://github-readme-stats.vercel.app/api?username=ChaerinYu&&show_icons=true&theme=merko"/> 
+<img align='center' width="360px" height="150px" src="https://github-readme-stats.vercel.app/api?username=ChaerinYu&&show_icons=true&theme=buefy"/> 
+ 
  </div>
  
  
    
 <br/>
  
- [![Solved.ac chaerin_ger](http://mazassumnida.wtf/api/mini/generate_badge?boj=chaerin_ger)](https://solved.ac/chaerin_ger)
- 
- <br/><br/>
- ❤🧡💛💚💙💜  
- [![Tistory Badge](https://img.shields.io/badge/the%20"Challenge"%20goes%20on.-ffbf45?style=flat&logoColor=white)](https://github.com/ChaerinYu/)
+ [![Solved.ac chaerin_ger](http://mazassumnida.wtf/api/mini/generate_badge?boj=chaerin_ger)](https://solved.ac/chaerin_ger)  
+ 🔥 [![Tistory Badge](https://img.shields.io/badge/-the%20%22Challenge%22%20goes%20on-orange)](https://github.com/ChaerinYu/) 🔥
  
  
 </div>
@@ -31,6 +28,7 @@ I'm Chaerin Yu, but you can just call me Challenge. 😎
 <!--
 **ChaerinYu/ChaerinYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ ❤🧡💛💚💙💜  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -48,4 +46,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaerinYu&&show_icons=true&theme=merko)
 
+<img align='center' width="290px" height="140px" src="http://mazassumnida.wtf/api/generate_badge?boj=chaerin_ger"/> 
+ [![Tistory Badge](https://img.shields.io/badge/the%20"Challenge"%20goes%20on.-ffbf45?style=flat&logoColor=white)](https://github.com/ChaerinYu/)  
 -->
