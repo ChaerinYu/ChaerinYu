@@ -4,6 +4,7 @@
 ### 𝐻𝑖 𝑡ℎ𝑒𝑟𝑒 👋
 𝙸'𝚖 𝙲𝚑𝚊𝚎𝚛𝚒𝚗 𝚈𝚞, 𝚋𝚞𝚝 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚓𝚞𝚜𝚝 𝚌𝚊𝚕𝚕 𝚖𝚎 "𝙲𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎". 😎
  
+ <img align='center' src="https://github.com/ChaerinYu/ChaerinYu/blob/main/heart_128.gif"/> 
 
 <br/>
 
@@ -18,6 +19,7 @@
  
    
 <br/>
+ 
  
  [![Solved.ac chaerin_ger](http://mazassumnida.wtf/api/mini/generate_badge?boj=chaerin_ger)](https://solved.ac/chaerin_ger)  
  🔥 [![Tistory Badge](https://img.shields.io/badge/-the%20%22Challenge%22%20goes%20on-orange)](https://github.com/ChaerinYu/) 🔥
